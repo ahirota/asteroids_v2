@@ -11,3 +11,4 @@ wheels/
 
 # Self Set Ignores
 game_state.jsonl
+game_events.jsonl
